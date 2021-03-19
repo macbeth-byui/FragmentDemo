@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dog_page"
+        android:enabled="true"
+        android:icon="@drawable/icon_1"
+        android:title="@string/dog_label"/>
+    <item
+        android:id="@+id/cat_page"
+        android:enabled="true"
+        android:icon="@drawable/icon_2"
+        android:title="@string/cat_label"/>
+
+    <item
+        android:id="@+id/bird_page"
+        android:enabled="true"
+        android:icon="@drawable/icon_3"
+        android:title="@string/bird_label"/>
+</menu>
